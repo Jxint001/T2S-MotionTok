@@ -1,0 +1,9 @@
+torch
+numpy
+matplotlib
+pillow
+tqdm
+sacrebleu
+jiwer
+fastdtw
+scipy

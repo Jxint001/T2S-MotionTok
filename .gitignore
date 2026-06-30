@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Large model/data artifacts
+*.pt
+*.pth
+*.ckpt
+*.pkl
+*.pickle
+*.npz
+*.npy
+checkpoints/
+data/
+datasets/
+outputs/
+runs/
+wandb/
+logs/
+
+# Generated LaTeX/build artifacts
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
+*.fls
+*.fdb_latexmk
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
