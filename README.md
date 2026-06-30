@@ -19,7 +19,7 @@ This repository is intentionally minimal: it contains method code, evidence aggr
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:Jxint001/T2S-MotionTok.git
 cd T2S-MotionTok
 
 conda create -n t2s-motiontok python=3.10 -y
